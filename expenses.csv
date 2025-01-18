@@ -1,0 +1,28 @@
+Item,description,amount,paid_by,ben,sherina,keiton,chris,hyeok,michael,alex,total
+BNB,,1,ben,421.30,421.30,421.30,358.46,225.78,260.70,265.35,1
+CAR,,1,keiton,284.51,284.51,284.51,244.25,171.78,179.83,197.28,1
+walmart,slippers+tax,9.65,alex,0,0,1,1,1,0,1,4
+walmart,peanut butter ,5.0264,alex,1,0,0,0,0,0,0,1
+walmart,low fat pb,3.2136,alex,0,0,0,0,1,0,1,2
+walmart,mayo jalapeno,8.3533,alex,0,0,1,0,0,0,0,1
+walmart,candies chips,15.9856,alex,0,1,1,1,1,0,1,5
+walmart,rest,67.6011,alex,1,1,1,1,1,1,1,7
+gas,,38.82,ben,1,1,1,1,1,1,1,7
+ichiran,ramen,32,ben,1,1,0,1,1,0,1,4
+costco,pork chops asparagus wings etc.,197.56,sherina,1,1,1,1,0,1,1,5
+costco,fairlife milk,35,sherina,1,0,1,1,0,1,1,4
+costco ,salmon & 2 yogurt,42.37,sherina,1,1,1,1,0,1,0,5
+costco ,pizza,10.87,sherina,1,1,1,1,0,1,1,5
+gas,,42,alex,1,1,1,1,1,1,1,6
+costco,"steak, toe warmer, bananas, protein bar, water, fairlife",181.73,keiton,1,1,1,1,0,0,1,4
+chinatown grocery,misc.,38.75,sherina,1,1,1,1,1,0,1,5
+chinatown grocery,a choy,5,sherina,1,1,1,1,0,1,1,5
+uber,Keiton flat tire,11,chris,1,1,1,1,1,1,1,6
+costco ,pork chops/wings/milk/water/2 yogurt/brocolli,74.89,keiton,1,1,1,1,1,1,0,6
+gas ,,49.28,ben,1,1,1,1,0,1,1,5
+harmons,soap tp etc.,11.39,ben,1,1,1,1,1,1,0,6
+harmons,fried chicken,13,sherina,1,1,1,1,1,1,0,6
+kfc,,53.13,ben,1,1,1,1,1,1,0,6
+gas ,,40,sherina,1,1,1,1,1,1,0,6
+gas,,41.78,keiton,1,1,1,1,1,1,0,6
+gas ,,15.92,keiton,1,1,1,1,1,1,0,6
